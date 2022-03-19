@@ -1,2 +1,2 @@
-# Flex-Card-Section
-https://keerthishankar-punchithaya.github.io/Flex-Card-Section/
+# Flex Card Section
+https://flex-card-section.netlify.app/
